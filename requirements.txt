@@ -1,5 +1,5 @@
 transformers 
-streamlit
+gunicorn
 torch
 sentencepiece
 fastapi[all]
